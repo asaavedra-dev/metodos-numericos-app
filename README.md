@@ -33,7 +33,7 @@ Metes los datos del problema, eliges el método y la app calcula el resultado mo
 Abre la demo, o descarga el repositorio y abre `index.html` en tu navegador:
 
 ```bash
-git clone https://github.com/alondrasaavedra7u7-maker/metodos-numericos-app.git
+git clone https://github.com/asaavedra-dev/metodos-numericos-app.git
 cd metodos-numericos-app
 ```
 
